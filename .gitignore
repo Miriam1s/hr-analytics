@@ -1,0 +1,16 @@
+# ambientes
+.env
+.venv
+__pycache__/
+
+# jupyter
+.ipynb_checkpoints/
+
+# dados grandes (se houver)
+data/processed/
+
+# sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
